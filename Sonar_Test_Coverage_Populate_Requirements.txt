@@ -1,0 +1,5 @@
+1) Unit Test cases should be present in test folder
+2) Junit Plugin should be present in pom.xml
+3) Jacoco Plugin should be present in pom.xml
+4) Jacoco report execution goal should be present in build tag in pom.xml
+5) Maven "verify" goal should be run while running sonar analysis
